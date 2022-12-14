@@ -1,6 +1,7 @@
 body{
     margin: 0;
     padding: 0;
+    background-color: rgb(200,230,200);
 }
 .form{
     width: 200px;
